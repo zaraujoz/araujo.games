@@ -12,7 +12,7 @@ import java.util.HashSet;
 @Entity
 @Table(name="plataformas")
 
-public class Platataforma {
+public class Plataforma {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
